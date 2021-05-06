@@ -13,14 +13,14 @@ Microsoft clasifica los servicios de Azure en 11 tipos principales de productos:
 
 - Redes: Este grupo incluye redes virtuales, conexiones y pasarelas dedicadas, así como servicios para la administración del tráfico, el equilibrio de carga y el alojamiento del sistema de nombres de dominio (DNS).
 
-    -Red de entrega de contenido y medios (CDN): Estos servicios incluyen streaming por demanda, codificación y reproducción e indexación de medios.
+- Red de entrega de contenido y medios (CDN): Estos servicios incluyen streaming por demanda, codificación y reproducción e indexación de medios.
 
-    -Integración híbrida: Son servicios para la copia de seguridad de servidores, la recuperación de sitios y la conexión de nubes privadas y públicas.
+- Integración híbrida: Son servicios para la copia de seguridad de servidores, la recuperación de sitios y la conexión de nubes privadas y públicas.
 
-    -Gestión de identidades y accesos (IAM): Estas ofertas garantizan que solo los usuarios autorizados puedan utilizar los servicios de Azure, y ayudar a proteger las claves de cifrado y otra información confidencial.
+- Gestión de identidades y accesos (IAM): Estas ofertas garantizan que solo los usuarios autorizados puedan utilizar los servicios de Azure, y ayudar a proteger las claves de cifrado y otra información confidencial.
 
-    -Internet de las cosas (IoT): Estos servicios ayudan a los usuarios a capturar, monitorear y analizar los datos de IoT, de sensores y otros dispositivos.
+- Internet de las cosas (IoT): Estos servicios ayudan a los usuarios a capturar, monitorear y analizar los datos de IoT, de sensores y otros dispositivos.
 
-    -Desarrollo: Estos servicios ayudan a los desarrolladores de aplicaciones a compartir código, probar aplicaciones y rastrear posibles problemas. Azure soporta una variedad de    -lenguajes de programación de aplicaciones, incluyendo JavaScript, Python, .NET y Node.js.
+- Desarrollo: Estos servicios ayudan a los desarrolladores de aplicaciones a compartir código, probar aplicaciones y rastrear posibles problemas. Azure soporta una variedad de    - lenguajes de programación de aplicaciones, incluyendo JavaScript, Python, .NET y Node.js.
 
-    -Gestión y seguridad: Estos productos ayudan a los administradores de nube a gestionar su implementación de Azure, a programar y ejecutar trabajos, y a crear automatización. Este grupo de productos también incluye capacidades para identificar y responder a amenazas de seguridad en la nube.
+- Gestión y seguridad: Estos productos ayudan a los administradores de nube a gestionar su implementación de Azure, a programar y ejecutar trabajos, y a crear automatización. Este grupo de productos también incluye capacidades para identificar y responder a amenazas de seguridad en la nube.
