@@ -4,7 +4,7 @@
 
 ## Microsoft clasifica los servicios de Azure en 11 tipos principales de productos:
 
-- Cómputo: Estos servicios proporcionan máquinas virtuales, contenedores, procesamiento por lotes y acceso a aplicaciones remotas.
+- Cómputo 💻 : Estos servicios proporcionan máquinas virtuales, contenedores, procesamiento por lotes y acceso a aplicaciones remotas.
 
 - Web y móvil: Estos servicios soportan el desarrollo y despliegue de aplicaciones web y móviles, y también ofrecen funciones para la administración, notificación y generación de informes de API.
 
