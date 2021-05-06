@@ -14,6 +14,8 @@ Azure cuenta con todo lo que se necesita para construir una gran solución. A co
 
 - **Opere de forma híbrida sin problemas**: En las instalaciones, en la nube y en el borde: nos reuniremos con usted donde esté. Integre y gestione sus entornos con herramientas y servicios diseñados para una solución de nube híbrida.
 
+- **Confíe en su nube**: Obtenga seguridad desde la base, respaldada por un equipo de expertos, y un cumplimiento proactivo en el que confían empresas, gobiernos y startups.
+
 ## Modelos de servicios en la nube.
 <table class="table"><caption class="visually-hidden">¿Qué son los modelos de servicios en la nube?</caption>
 <thead>
