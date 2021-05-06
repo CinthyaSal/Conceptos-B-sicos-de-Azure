@@ -1,7 +1,7 @@
 # Conceptos Básicos de Azure
 
 ## ¿Qué es Azure?.
-Azure es un conjunto de servicios en la nube en continua expansión que ayuda a su organización a superar sus retos empresariales actuales y futuros. Azure le da la libertad de crear, gestionar y desplegar aplicaciones en una red global masiva utilizando sus herramientas y marcos favoritos.
+Azure es un conjunto de servicios en la nube en continua expansión que ayuda a  superar  retos empresariales actuales y futuros. Azure  da la libertad de crear, gestionar y desplegar aplicaciones en una red global masiva utilizando sus herramientas y marcos favoritos.
 
  **Microsoft Azure se considera ampliamente como un servicio de plataforma como servicio (PaaS) e infraestructura como servicio (IaaS).**
  
@@ -12,9 +12,7 @@ Azure cuenta con todo lo que se necesita para construir una gran solución. A co
 
 - **Construya en sus términos**: Tienes opciones. Con un compromiso con el código abierto y la compatibilidad con todos los lenguajes y marcos de trabajo, puede construir como quiera e implementar donde quiera.
 
-- **Opere de forma híbrida sin problemas**: En las instalaciones, en la nube y en el borde: nos reuniremos con usted donde esté. Integre y gestione sus entornos con herramientas y servicios diseñados para una solución de nube híbrida.
-
-- **Confíe en su nube**: Obtenga seguridad desde la base, respaldada por un equipo de expertos, y un cumplimiento proactivo en el que confían empresas, gobiernos y startups.
+- **Opera de forma híbrida sin problemas**:  Integra y gestiona el entornos con herramientas y servicios diseñados para una solución de nube híbrida.
 
 ## Modelos de servicios en la nube.
 <table class="table"><caption class="visually-hidden">¿Qué son los modelos de servicios en la nube?</caption>
