@@ -1,22 +1,10 @@
 # Conceptos Básicos de Azure
 
+**¿Qué es Azure?**
+- Azure es un conjunto de servicios en la nube en continua expansión que ayuda a su organización a superar sus retos empresariales actuales y futuros. Azure le da la libertad de crear, gestionar y desplegar aplicaciones en una red global masiva utilizando sus herramientas y marcos favoritos.
+
+ **Microsoft Azure se considera ampliamente como un servicio de plataforma como servicio (PaaS) e infraestructura como servicio (IaaS).**
  
-
-## ¿Qué es Azure?
-Azure es un conjunto de servicios en la nube en continua expansión que ayuda a su organización a superar sus retos empresariales actuales y futuros. Azure le da la libertad de crear, gestionar e implementar aplicaciones en una red global masiva utilizando sus herramientas y marcos de trabajo favoritos.
-
-**Microsoft Azure se considera ampliamente como un servicio de plataforma como servicio (PaaS) e infraestructura como servicio (IaaS).**
-
-## ¿Qué ofrece Azure?
-Con la ayuda de Azure, tiene todo lo que necesita para construir su próxima gran solución. La siguiente tabla enumera varias de las ventajas que ofrece Azure, para que pueda inventar fácilmente con un propósito.
-
-- **Esté preparado para el futuro**: La innovación continua de Microsoft respalda su desarrollo actual y sus visiones de producto para el futuro.
-
-- **Construya en sus términos**: Tienes opciones. Con un compromiso con el código abierto y la compatibilidad con todos los lenguajes y marcos de trabajo, puede construir como quiera e implementar donde quiera.
-
-- **Opere de forma híbrida sin problemas**: En las instalaciones, en la nube y en el borde: nos reuniremos con usted donde esté. Integre y gestione sus entornos con herramientas y servicios diseñados para una solución de nube híbrida.
-
-## Modelos de servicios en la nube.
 <table class="table"><caption class="visually-hidden">¿Qué son los modelos de servicios en la nube?</caption>
 <thead>
 <tr>
@@ -49,23 +37,23 @@ Con la ayuda de Azure, tiene todo lo que necesita para construir su próxima gra
 
 <div align="center"> <img src="https://www.online-tech-tips.com/wp-content/uploads/2012/05/cloud-storage.jpg.webp" height="40%" width="40%"> </div>
 
-- **Cómputo**: Estos servicios proporcionan máquinas virtuales, contenedores, procesamiento por lotes y acceso a aplicaciones remotas.
+- **Cómputo** 💻 : Estos servicios proporcionan máquinas virtuales, contenedores, procesamiento por lotes y acceso a aplicaciones remotas.
 
-- **Web y móvil**: Estos servicios soportan el desarrollo y despliegue de aplicaciones web y móviles, y también ofrecen funciones para la administración, notificación y generación de informes de API.
+- **Web y móvil** 📱 : Estos servicios soportan el desarrollo y despliegue de aplicaciones web y móviles, y también ofrecen funciones para la administración, notificación y generación de informes de API.
 
-- **Almacenamiento de datos**: Esta categoría incluye las ofertas de base de datos como servicio para SQL y NoSQL, así como almacenamiento en la nube no estructurado y en caché.
+- **Almacenamiento de datos** 📂 : Esta categoría incluye las ofertas de base de datos como servicio para SQL y NoSQL, así como almacenamiento en la nube no estructurado y en caché.
 
-- **Analítica**: Estos servicios proporcionan análisis y almacenamiento distribuidos, así como analítica en tiempo real, análisis de big data, lagos de datos, aprendizaje automático y data warehousing.
+- **Analítica** 📈 : Estos servicios proporcionan análisis y almacenamiento distribuidos, así como analítica en tiempo real, análisis de big data, lagos de datos, aprendizaje automático y data warehousing.
 
-- **Redes**: Este grupo incluye redes virtuales, conexiones y pasarelas dedicadas, así como servicios para la administración del tráfico, el equilibrio de carga y el alojamiento del sistema de nombres de dominio (DNS).
+- **Redes** 🌐 : Este grupo incluye redes virtuales, conexiones y pasarelas dedicadas, así como servicios para la administración del tráfico, el equilibrio de carga y el alojamiento del sistema de nombres de dominio (DNS).
 
-- **Red de entrega de contenido y medios (CDN)**: Estos servicios incluyen streaming por demanda, codificación y reproducción e indexación de medios.
+- **Red de entrega de contenido y medios (CDN)** 📹 : Estos servicios incluyen streaming por demanda, codificación y reproducción e indexación de medios.
 
-- **Integración híbrida**: Son servicios para la copia de seguridad de servidores, la recuperación de sitios y la conexión de nubes privadas y públicas.
+- **Integración híbrida** ⚡ : Son servicios para la copia de seguridad de servidores, la recuperación de sitios y la conexión de nubes privadas y públicas.
 
 - **Gestión de identidades y accesos (IAM)**: Estas ofertas garantizan que solo los usuarios autorizados puedan utilizar los servicios de Azure, y ayudar a proteger las claves de cifrado y otra información confidencial.
 
-- **Internet de las cosas (IoT)**: Estos servicios ayudan a los usuarios a capturar, monitorear y analizar los datos de IoT, de sensores y otros dispositivos.
+- **Internet de las cosas (IoT)** 🌐 : Estos servicios ayudan a los usuarios a capturar, monitorear y analizar los datos de IoT, de sensores y otros dispositivos.
 
 - **Desarrollo**: Estos servicios ayudan a los desarrolladores de aplicaciones a compartir código, probar aplicaciones y rastrear posibles problemas. Azure soporta una variedad de lenguajes de programación de aplicaciones, incluyendo JavaScript, Python, .NET y Node.js.
 
