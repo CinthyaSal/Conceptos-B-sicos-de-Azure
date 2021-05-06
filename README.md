@@ -6,12 +6,12 @@ Microsoft clasifica los servicios de Azure en 11 tipos principales de productos:
 
 - Cómputo: Estos servicios proporcionan máquinas virtuales, contenedores, procesamiento por lotes y acceso a aplicaciones remotas.
 
- Web y móvil: Estos servicios soportan el desarrollo y despliegue de aplicaciones web y móviles, y también ofrecen funciones para la administración, notificación y generación de informes de API.
+- Web y móvil: Estos servicios soportan el desarrollo y despliegue de aplicaciones web y móviles, y también ofrecen funciones para la administración, notificación y generación de informes de API.
 
-    -Almacenamiento de datos: Esta categoría incluye las ofertas de base de datos como servicio para SQL y NoSQL, así como almacenamiento en la nube no estructurado y en caché.
-    -Analítica: Estos servicios proporcionan análisis y almacenamiento distribuidos, así como analítica en tiempo real, análisis de big data, lagos de datos, aprendizaje automático y data warehousing.
+- Almacenamiento de datos: Esta categoría incluye las ofertas de base de datos como servicio para SQL y NoSQL, así como almacenamiento en la nube no estructurado y en caché.
+- Analítica: Estos servicios proporcionan análisis y almacenamiento distribuidos, así como analítica en tiempo real, análisis de big data, lagos de datos, aprendizaje automático y data warehousing.
 
-    -Redes: Este grupo incluye redes virtuales, conexiones y pasarelas dedicadas, así como servicios para la administración del tráfico, el equilibrio de carga y el alojamiento del sistema de nombres de dominio (DNS).
+- Redes: Este grupo incluye redes virtuales, conexiones y pasarelas dedicadas, así como servicios para la administración del tráfico, el equilibrio de carga y el alojamiento del sistema de nombres de dominio (DNS).
 
     -Red de entrega de contenido y medios (CDN): Estos servicios incluyen streaming por demanda, codificación y reproducción e indexación de medios.
 
