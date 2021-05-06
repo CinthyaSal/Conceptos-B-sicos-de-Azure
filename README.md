@@ -2,7 +2,7 @@
 
  **Microsoft Azure se considera ampliamente como un servicio de plataforma como servicio (PaaS) e infraestructura como servicio (IaaS).**
  
-<table class="table"><caption class="visually-hidden">¿Qué son los modelos de servicios en la nube?</caption>
+<table><caption>¿Qué son los modelos de servicios en la nube?</caption>
 <thead>
 <tr>
 <th>Modelo</th>
@@ -34,9 +34,9 @@
 
 <div align="center"> <img src="https://www.online-tech-tips.com/wp-content/uploads/2012/05/cloud-storage.jpg.webp" height="40%" width="40%"> </div>
 
-- **Cómputo**: Estos servicios proporcionan máquinas virtuales, contenedores, procesamiento por lotes y acceso a aplicaciones remotas.
+- **Cómputo** 💻: Estos servicios proporcionan máquinas virtuales, contenedores, procesamiento por lotes y acceso a aplicaciones remotas.
 
-- **Web y móvil**: Estos servicios soportan el desarrollo y despliegue de aplicaciones web y móviles, y también ofrecen funciones para la administración, notificación y generación de informes de API.
+- **Web y móvil** : Estos servicios soportan el desarrollo y despliegue de aplicaciones web y móviles, y también ofrecen funciones para la administración, notificación y generación de informes de API.
 
 - **Almacenamiento de datos**: Esta categoría incluye las ofertas de base de datos como servicio para SQL y NoSQL, así como almacenamiento en la nube no estructurado y en caché.
 
