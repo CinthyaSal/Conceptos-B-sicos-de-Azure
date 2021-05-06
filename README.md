@@ -6,7 +6,7 @@ Azure es un conjunto de servicios en la nube en continua expansión que ayuda a 
  **Microsoft Azure se considera ampliamente como un servicio de plataforma como servicio (PaaS) e infraestructura como servicio (IaaS).**
  
  ## ¿Qué ofrece Azure?.
-Con la ayuda de Azure, tiene todo lo que necesita para construir su próxima gran solución. La siguiente tabla enumera varias de las ventajas que ofrece Azure, para que pueda inventar fácilmente con un propósito.
+Azure cuenta con todo lo que se necesita para construir una gran solución. A continuación se enumera las ventajas de Azure.
 
 - **Esté preparado para el futuro**: La innovación continua de Microsoft respalda su desarrollo actual y sus visiones de producto para el futuro.
 
