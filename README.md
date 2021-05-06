@@ -1,6 +1,6 @@
 # Conceptos Básicos de Azure
 
-# Microsoft Azure se considera ampliamente como un servicio de plataforma como servicio (PaaS) e infraestructura como servicio (IaaS).
+ Microsoft Azure se considera ampliamente como un servicio de plataforma como servicio (PaaS) e infraestructura como servicio (IaaS).
 
 ## Microsoft clasifica los servicios de Azure en 11 tipos principales de productos:
 
