@@ -8,7 +8,7 @@
 
 - Web y móvil 📱 : Estos servicios soportan el desarrollo y despliegue de aplicaciones web y móviles, y también ofrecen funciones para la administración, notificación y generación de informes de API.
 
-- Almacenamiento de datos ![image](https://www.online-tech-tips.com/wp-content/uploads/2012/05/cloud-storage.jpg.webp "Title" {width=20% height=20%}) : Esta categoría incluye las ofertas de base de datos como servicio para SQL y NoSQL, así como almacenamiento en la nube no estructurado y en caché.
+- Almacenamiento de datos <img src="https://www.online-tech-tips.com/wp-content/uploads/2012/05/cloud-storage.jpg.webp"> : Esta categoría incluye las ofertas de base de datos como servicio para SQL y NoSQL, así como almacenamiento en la nube no estructurado y en caché.
 
 - Analítica: Estos servicios proporcionan análisis y almacenamiento distribuidos, así como analítica en tiempo real, análisis de big data, lagos de datos, aprendizaje automático y data warehousing.
 
