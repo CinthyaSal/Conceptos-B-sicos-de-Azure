@@ -71,7 +71,8 @@ Dispositivo e independencia de la ubicación permite a los usuarios acceder a lo
 </tbody>
 </table>
 
-
+![image](http://www.mercadoit.com/blog/wp-content/uploads/2017/04/hybrid_cloud_hosting-300x179.png)
+<image src="http://www.mercadoit.com/blog/wp-content/uploads/2017/04/hybrid_cloud_hosting-300x179.png" height="40%" width="40%">
 
 ## Ventajas de Cloud Computing
 
