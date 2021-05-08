@@ -129,11 +129,11 @@ Azure cuenta con todo lo que se necesita para construir una gran solución. A co
 
 - **Integración híbrida** ⚡ : Son servicios para la copia de seguridad de servidores, la recuperación de sitios y la conexión de nubes privadas y públicas.
 
-- **Gestión de identidades y accesos (IAM)**: Estas ofertas garantizan que solo los usuarios autorizados puedan utilizar los servicios de Azure, y ayudar a proteger las claves de cifrado y otra información confidencial.
+- **Gestión de identidades y accesos (IAM)** 💁: Estas ofertas garantizan que solo los usuarios autorizados puedan utilizar los servicios de Azure, y ayudar a proteger las claves de cifrado y otra información confidencial.
 
 - **Internet de las cosas (IoT)** 🌐 : Estos servicios ayudan a los usuarios a capturar, monitorear y analizar los datos de IoT, de sensores y otros dispositivos.
 
-- **Desarrollo**: Estos servicios ayudan a los desarrolladores de aplicaciones a compartir código, probar aplicaciones y rastrear posibles problemas. Azure soporta una variedad de lenguajes de programación de aplicaciones, incluyendo JavaScript, Python, .NET y Node.js.
+- **Desarrollo** 🌐 : Estos servicios ayudan a los desarrolladores de aplicaciones a compartir código, probar aplicaciones y rastrear posibles problemas. Azure soporta una variedad de lenguajes de programación de aplicaciones, incluyendo JavaScript, Python, .NET y Node.js.
 
 - **Gestión y seguridad** 🔐 : Estos productos ayudan a los administradores de nube a gestionar su implementación de Azure, a programar y ejecutar trabajos, y a crear automatización. Este grupo de productos también incluye capacidades para identificar y responder a amenazas de seguridad en la nube.
 
