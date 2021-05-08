@@ -140,9 +140,9 @@ Azure cuenta con todo lo que se necesita para construir una gran solución. A co
 ## Computación sin servidor.
 
 - Superpuesta a la PaaS,
- - la computación sin servidor permite a los desarrolladores crear aplicaciones más rápidamente al eliminar la necesidad de gestionar la infraestructura.
- - Con las aplicaciones sin servidor, el proveedor de servicios en la nube aprovisiona, escala y gestiona automáticamente la infraestructura necesaria para ejecutar el código.
- -  Las arquitecturas sin servidor son altamente escalables y se basan en eventos. Utilizan recursos sólo cuando se produce una función o un desencadenante específico.
+    - la computación sin servidor permite a los desarrolladores crear aplicaciones más rápidamente al eliminar la necesidad de gestionar la infraestructura.
+    - Con las aplicaciones sin servidor, el proveedor de servicios en la nube aprovisiona, escala y gestiona automáticamente la infraestructura necesaria para ejecutar el código.
+    -  Las arquitecturas sin servidor son altamente escalables y se basan en eventos. Utilizan recursos sólo cuando se produce una función o un desencadenante específico.
 
 Para entender la definición de computación sin servidor, es importante tener en cuenta que los servidores siguen ejecutando el código. El nombre de serverless viene del hecho de que las tareas asociadas con el aprovisionamiento y la gestión de la infraestructura son invisibles para el desarrollador. Este enfoque permite a los desarrolladores centrarse más en la lógica empresarial y ofrecer más valor al núcleo del negocio. La computación sin servidor ayuda a los equipos a aumentar su productividad y a sacar los productos al mercado más rápidamente. Permite a las organizaciones optimizar mejor los recursos y mantenerse centradas en la innovación.
 
