@@ -45,7 +45,7 @@ Dispositivo e independencia de la ubicación permite a los usuarios acceder a lo
 
 **La siguiente ilustración muestra los servicios que podrían ejecutarse en cada uno de los modelos de servicios en la nube.**
 
-<div align="center"><img src="https://revistacloud.com/wp-content/uploads/2016/07/modelos-iaas-saas-paas.png" data-linktype="relative-path"> </div>
+<img src="https://docs.microsoft.com/en-us/learn/azure-fundamentals/intro-to-azure-fundamentals/media/iaas-paas-saas-expanded.png#lightbox" alt="Ilustración que muestra los servicios separados por modelos de servicios en la nube." data-linktype="relative-path">
 
 ## Nube Pública, Privada e Híbrida.
 <table class="table"><caption class="visually-hidden"></caption>
@@ -71,7 +71,7 @@ Dispositivo e independencia de la ubicación permite a los usuarios acceder a lo
 </tbody>
 </table>
 
-<div align="center"><image src="http://www.mercadoit.com/blog/wp-content/uploads/2017/04/hybrid_cloud_hosting-300x179.png" height="40%" width="40%"></div>
+
 
 ## Ventajas de Cloud Computing
 
@@ -87,6 +87,17 @@ Dispositivo e independencia de la ubicación permite a los usuarios acceder a lo
 - Percepción de pérdida de privacidad de datos sensibles.
 - Dependencia de la infraestructura y plataformas de terceros para operar.
 - La información queda vulnerable a robo.
+
+## Usos del Cloud Computing.
+La computación en la nube es relativamente reciente. Los primeros servicios en la nube surgieron en el final de los años 90, cuando Internet aún no era tan popular como hoy en día.
+
+- Almacenar y hacer backup de datos: Con un servicio de nube, se puede proteger datos y archivos de manera más eficiente. La computación en la nube permite transferir esas informaciones para servidores remotos. Con eso, el usuario logra acceder a esos datos cuando y donde lo desee, usando cualquier dispositivo conectado a Internet.
+
+- Transmisión de contenido de audio y vídeo :La nube también permite ofrecer servicios de transmisión de audio y vídeo. Basta almacenar esos archivos en un servidor remoto para que el público tenga acceso a ellos sin necesidad de descargarlos.
+
+- Analizar informaciones :Uno de los grandes desafíos enfrentados por varios negocios es lograr integrar las informaciones de todos los sectores para facilitar el proceso de análisis de datos. La tecnología de computación en la nube permite unificar los datos de diferentes equipos y lugares en un único lugar. Así, es fácil usar servicios de inteligencia para adquirir conocimiento y tomar decisiones con mejor base.
+
+- Proveer software y servicio bajo demanda : Una forma de democratizar el acceso a los servicios de una marca se logra a través de la nube. El modelo de software por encomienda ha conquistado espacio, permitiendo que los usuarios usen las últimas versiones de programas siempre que necesiten, sin tener que descargar e instalar nada en sus dispositivos.
 
 
 ## ¿Qué es Azure?
@@ -129,20 +140,17 @@ Azure cuenta con todo lo que se necesita para construir una gran solución. A co
 
 - **Integración híbrida** ⚡ : Son servicios para la copia de seguridad de servidores, la recuperación de sitios y la conexión de nubes privadas y públicas.
 
-- **Gestión de identidades y accesos (IAM)** 💁: Estas ofertas garantizan que solo los usuarios autorizados puedan utilizar los servicios de Azure, y ayudar a proteger las claves de cifrado y otra información confidencial.
+- **Gestión de identidades y accesos (IAM)**: Estas ofertas garantizan que solo los usuarios autorizados puedan utilizar los servicios de Azure, y ayudar a proteger las claves de cifrado y otra información confidencial.
 
 - **Internet de las cosas (IoT)** 🌐 : Estos servicios ayudan a los usuarios a capturar, monitorear y analizar los datos de IoT, de sensores y otros dispositivos.
 
-- **Desarrollo** 🌐 : Estos servicios ayudan a los desarrolladores de aplicaciones a compartir código, probar aplicaciones y rastrear posibles problemas. Azure soporta una variedad de lenguajes de programación de aplicaciones, incluyendo JavaScript, Python, .NET y Node.js.
+- **Desarrollo**: Estos servicios ayudan a los desarrolladores de aplicaciones a compartir código, probar aplicaciones y rastrear posibles problemas. Azure soporta una variedad de lenguajes de programación de aplicaciones, incluyendo JavaScript, Python, .NET y Node.js.
 
-- **Gestión y seguridad** 🔐 : Estos productos ayudan a los administradores de nube a gestionar su implementación de Azure, a programar y ejecutar trabajos, y a crear automatización. Este grupo de productos también incluye capacidades para identificar y responder a amenazas de seguridad en la nube.
+- **Gestión y seguridad**: Estos productos ayudan a los administradores de nube a gestionar su implementación de Azure, a programar y ejecutar trabajos, y a crear automatización. Este grupo de productos también incluye capacidades para identificar y responder a amenazas de seguridad en la nube.
 
 ## Computación sin servidor.
 
-- Superpuesta a la PaaS,
-    - la computación sin servidor permite a los desarrolladores crear aplicaciones más rápidamente al eliminar la necesidad de gestionar la infraestructura.
-    - Con las aplicaciones sin servidor, el proveedor de servicios en la nube aprovisiona, escala y gestiona automáticamente la infraestructura necesaria para ejecutar el código.
-    -  Las arquitecturas sin servidor son altamente escalables y se basan en eventos. Utilizan recursos sólo cuando se produce una función o un desencadenante específico.
+Superpuesta a la PaaS, la computación sin servidor permite a los desarrolladores crear aplicaciones más rápidamente al eliminar la necesidad de gestionar la infraestructura. Con las aplicaciones sin servidor, el proveedor de servicios en la nube aprovisiona, escala y gestiona automáticamente la infraestructura necesaria para ejecutar el código. Las arquitecturas sin servidor son altamente escalables y se basan en eventos. Utilizan recursos sólo cuando se produce una función o un desencadenante específico.
 
 Para entender la definición de computación sin servidor, es importante tener en cuenta que los servidores siguen ejecutando el código. El nombre de serverless viene del hecho de que las tareas asociadas con el aprovisionamiento y la gestión de la infraestructura son invisibles para el desarrollador. Este enfoque permite a los desarrolladores centrarse más en la lógica empresarial y ofrecer más valor al núcleo del negocio. La computación sin servidor ayuda a los equipos a aumentar su productividad y a sacar los productos al mercado más rápidamente. Permite a las organizaciones optimizar mejor los recursos y mantenerse centradas en la innovación.
 
