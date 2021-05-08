@@ -19,6 +19,19 @@ Dispositivo e independencia de la ubicación permite a los usuarios acceder a lo
 
 - *Mantenimiento*:El Mantenimiento de las aplicaciones de computación en la nube es más sencillo, ya que no necesitan ser instalados en el ordenador de cada usuario y se puede acceder desde diferentes lugares.
 
+## Usos de la computación en la nube.
+La computación en la nube es relativamente reciente. Los primeros servicios en la nube surgieron en el final de los años 90, cuando Internet aún no era tan popular como hoy en día.
+
+<div align="center"> <img src="https://linube.com/blog/wp-content/uploads/cloud-backup.png" height="40%" width="40%"> </div>
+
+- **Almacenar y hacer backup de datos**: Con un servicio de nube, se puede proteger datos y archivos de manera más eficiente. La computación en la nube permite transferir esas informaciones para servidores remotos. Con eso, el usuario logra acceder a esos datos cuando y donde lo desee, usando cualquier dispositivo conectado a Internet.
+
+- **Transmisión de contenido de audio y vídeo**: La nube también permite ofrecer servicios de transmisión de audio y vídeo. Basta almacenar esos archivos en un servidor remoto para que el público tenga acceso a ellos sin necesidad de descargarlos.
+
+- **Analizar informaciones**:Uno de los grandes desafíos enfrentados por varios negocios es lograr integrar las informaciones de todos los sectores para facilitar el proceso de análisis de datos. La tecnología de computación en la nube permite unificar los datos de diferentes equipos y lugares en un único lugar. Así, es fácil usar servicios de inteligencia para adquirir conocimiento y tomar decisiones con mejor base.
+
+- **Proveer software y servicio bajo demanda** : Una forma de democratizar el acceso a los servicios de una marca se logra a través de la nube. El modelo de software por encomienda ha conquistado espacio, permitiendo que los usuarios usen las últimas versiones de programas siempre que necesiten, sin tener que descargar e instalar nada en sus dispositivos.
+
 ## Modelos de servicios en la nube.
 <table class="table"><caption class="visually-hidden"></caption>
 <thead>
