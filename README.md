@@ -45,7 +45,7 @@ Dispositivo e independencia de la ubicación permite a los usuarios acceder a lo
 
 **La siguiente ilustración muestra los servicios que podrían ejecutarse en cada uno de los modelos de servicios en la nube.**
 
-<div align="center"/><img src="https://revistacloud.com/wp-content/uploads/2016/07/modelos-iaas-saas-paas.png" data-linktype="relative-path">
+<div align="center"><img src="https://revistacloud.com/wp-content/uploads/2016/07/modelos-iaas-saas-paas.png" data-linktype="relative-path"> </div>
 
 ## Nube Pública, Privada e Híbrida.
 <table class="table"><caption class="visually-hidden"></caption>
