@@ -58,7 +58,7 @@ La computación en la nube es relativamente reciente. Los primeros servicios en 
 
 **La siguiente ilustración muestra los servicios que podrían ejecutarse en cada uno de los modelos de servicios en la nube.**
 
-<img src="https://docs.microsoft.com/en-us/learn/azure-fundamentals/intro-to-azure-fundamentals/media/iaas-paas-saas-expanded.png#lightbox" alt="Ilustración que muestra los servicios separados por modelos de servicios en la nube." data-linktype="relative-path">
+<div align="center"> <img src="https://revistacloud.com/wp-content/uploads/2016/07/modelos-iaas-saas-paas.png" data-linktype="relative-path"> </div>
 
 ## Nube Pública, Privada e Híbrida.
 <table class="table"><caption class="visually-hidden"></caption>
@@ -153,13 +153,13 @@ Azure cuenta con todo lo que se necesita para construir una gran solución. A co
 
 - **Integración híbrida** ⚡ : Son servicios para la copia de seguridad de servidores, la recuperación de sitios y la conexión de nubes privadas y públicas.
 
-- **Gestión de identidades y accesos (IAM)**: Estas ofertas garantizan que solo los usuarios autorizados puedan utilizar los servicios de Azure, y ayudar a proteger las claves de cifrado y otra información confidencial.
+- **Gestión de identidades y accesos (IAM)** 💁 : Estas ofertas garantizan que solo los usuarios autorizados puedan utilizar los servicios de Azure, y ayudar a proteger las claves de cifrado y otra información confidencial.
 
 - **Internet de las cosas (IoT)** 🌐 : Estos servicios ayudan a los usuarios a capturar, monitorear y analizar los datos de IoT, de sensores y otros dispositivos.
 
-- **Desarrollo**: Estos servicios ayudan a los desarrolladores de aplicaciones a compartir código, probar aplicaciones y rastrear posibles problemas. Azure soporta una variedad de lenguajes de programación de aplicaciones, incluyendo JavaScript, Python, .NET y Node.js.
+- **Desarrollo** 🌐 : Estos servicios ayudan a los desarrolladores de aplicaciones a compartir código, probar aplicaciones y rastrear posibles problemas. Azure soporta una variedad de lenguajes de programación de aplicaciones, incluyendo JavaScript, Python, .NET y Node.js.
 
-- **Gestión y seguridad**: Estos productos ayudan a los administradores de nube a gestionar su implementación de Azure, a programar y ejecutar trabajos, y a crear automatización. Este grupo de productos también incluye capacidades para identificar y responder a amenazas de seguridad en la nube.
+- **Gestión y seguridad** 🔒 : Estos productos ayudan a los administradores de nube a gestionar su implementación de Azure, a programar y ejecutar trabajos, y a crear automatización. Este grupo de productos también incluye capacidades para identificar y responder a amenazas de seguridad en la nube.
 
 ## Computación sin servidor.
 
