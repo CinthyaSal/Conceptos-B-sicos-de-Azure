@@ -19,7 +19,7 @@ Dispositivo e independencia de la ubicación permite a los usuarios acceder a lo
 
 - *Mantenimiento*:El Mantenimiento de las aplicaciones de computación en la nube es más sencillo, ya que no necesitan ser instalados en el ordenador de cada usuario y se puede acceder desde diferentes lugares.
 
-## Usos de la computación en la nube.
+## Usos de Cloud Computing.
 La computación en la nube es relativamente reciente. Los primeros servicios en la nube surgieron en el final de los años 90, cuando Internet aún no era tan popular como hoy en día.
 
 <div align="center"> <img src="https://linube.com/blog/wp-content/uploads/cloud-backup.png" height="40%" width="40%"> </div>
