@@ -28,7 +28,7 @@ La computación en la nube es relativamente reciente. Los primeros servicios en 
 
 - **Transmisión de contenido de audio y vídeo**: La nube también permite ofrecer servicios de transmisión de audio y vídeo. Basta almacenar esos archivos en un servidor remoto para que el público tenga acceso a ellos sin necesidad de descargarlos.
 
-- **Analizar informaciones**:Uno de los grandes desafíos enfrentados por varios negocios es lograr integrar las informaciones de todos los sectores para facilitar el proceso de análisis de datos. La tecnología de computación en la nube permite unificar los datos de diferentes equipos y lugares en un único lugar. Así, es fácil usar servicios de inteligencia para adquirir conocimiento y tomar decisiones con mejor base.
+- **Analizar informaciones**:Uno de los grandes desafíos enfrentados por varios negocios es lograr integrar la informacion  de todos los sectores para facilitar el proceso de análisis de datos. La tecnología de computación en la nube permite unificar los datos de diferentes equipos y lugares en un único lugar. Así, es fácil usar servicios de inteligencia para adquirir conocimiento y tomar decisiones con mejor base.
 
 - **Proveer software y servicio bajo demanda** : Una forma de democratizar el acceso a los servicios de una marca se logra a través de la nube. El modelo de software por encomienda ha conquistado espacio, permitiendo que los usuarios usen las últimas versiones de programas siempre que necesiten, sin tener que descargar e instalar nada en sus dispositivos.
 
